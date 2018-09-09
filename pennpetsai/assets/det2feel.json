@@ -1,0 +1,652 @@
+{
+  "detections": {
+    "aeroplane": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 1,
+      "fresh": 3,
+      "people": 4
+    },
+    "apple": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "backpack": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 1,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 1
+    },
+    "banana": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 3,
+      "depraved": 1,
+      "fresh": 3,
+      "people": 0
+    },
+    "baseball bat": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 2
+    },
+    "baseball glove": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 2
+    },
+    "bear": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "bed": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 4,
+      "fresh": 2,
+      "people": 0
+    },
+    "bench": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 5,
+      "depraved": 2,
+      "fresh": 4,
+      "people": 1
+    },
+    "bicycle": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 3,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "bird": {
+      "animal": 5,
+      "city": 2,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "boat": {
+      "animal": 0,
+      "city": 0,
+      "countryside": 5,
+      "depraved": 2,
+      "fresh": 5,
+      "people": 1
+    },
+    "book": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 2,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "bottle": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 3,
+      "fresh": 0,
+      "people": 0
+    },
+    "bowl": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 0
+    },
+    "broccoli": {
+      "animal": 0,
+      "city": 2,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "bus": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 1,
+      "fresh": 0,
+      "people": 4
+    },
+    "cake": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 1,
+      "depraved": 5,
+      "fresh": 1,
+      "people": 1
+    },
+    "car": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 4,
+      "fresh": 0,
+      "people": 1
+    },
+    "carrot": {
+      "animal": 0,
+      "city": 2,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "cat": {
+      "animal": 5,
+      "city": 4,
+      "countryside": 2,
+      "depraved": 1,
+      "fresh": 1,
+      "people": 0
+    },
+    "cell phone": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 4,
+      "fresh": 0,
+      "people": 3
+    },
+    "chair": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 3,
+      "fresh": 0,
+      "people": 0
+    },
+    "clock": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 1,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 0
+    },
+    "cow": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "cup": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 3,
+      "depraved": 2,
+      "fresh": 4,
+      "people": 0
+    },
+    "diningtable": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 1,
+      "fresh": 4,
+      "people": 2
+    },
+    "dog": {
+      "animal": 5,
+      "city": 4,
+      "countryside": 3,
+      "depraved": 1,
+      "fresh": 5,
+      "people": 0
+    },
+    "donut": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 5,
+      "fresh": 0,
+      "people": 0
+    },
+    "elephant": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "fire hydrant": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 1
+    },
+    "fork": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 2,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 0
+    },
+    "frisbee": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 4
+    },
+    "giraffe": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 2,
+      "people": 0
+    },
+    "hair drier": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "handbag": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 3
+    },
+    "horse": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "hot dog": {
+      "animal": 1,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 5,
+      "fresh": 0,
+      "people": 0
+    },
+    "keyboard": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 3,
+      "fresh": 0,
+      "people": 1
+    },
+    "kite": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 3,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 1
+    },
+    "knife": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "laptop": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 4,
+      "fresh": 0,
+      "people": 1
+    },
+    "microwave": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 3,
+      "fresh": 1,
+      "people": 0
+    },
+    "motorbike": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 2,
+      "depraved": 3,
+      "fresh": 1,
+      "people": 0
+    },
+    "mouse": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 4,
+      "fresh": 0,
+      "people": 0
+    },
+    "orange": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "oven": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 2,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "parking meter": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 2
+    },
+    "person": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 5
+    },
+    "pizza": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 5,
+      "fresh": 0,
+      "people": 2
+    },
+    "pottedplant": {
+      "animal": 0,
+      "city": 2,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 0
+    },
+    "refrigerator": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 3,
+      "fresh": 3,
+      "people": 0
+    },
+    "remote": {
+      "animal": 0,
+      "city": 0,
+      "countryside": 3,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "sandwich": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 3,
+      "fresh": 2,
+      "people": 0
+    },
+    "scissors": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 2,
+      "depraved": 1,
+      "fresh": 1,
+      "people": 0
+    },
+    "sheep": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    },
+    "sink": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 2,
+      "fresh": 1,
+      "people": 0
+    },
+    "skateboard": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 3
+    },
+    "skis": {
+      "animal": 0,
+      "city": 2,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 2
+    },
+    "snowboard": {
+      "animal": 0,
+      "city": 2,
+      "countryside": 4,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 2
+    },
+    "sofa": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 5,
+      "fresh": 0,
+      "people": 1
+    },
+    "spoon": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 0
+    },
+    "sports ball": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 1,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 2
+    },
+    "stop sign": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 1
+    },
+    "suitcase": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 1,
+      "fresh": 3,
+      "people": 1
+    },
+    "surfboard": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 2,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 3
+    },
+    "teddy bear": {
+      "animal": 2,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "tennis racket": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 2
+    },
+    "tie": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 3
+    },
+    "toaster": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 2,
+      "depraved": 2,
+      "fresh": 3,
+      "people": 0
+    },
+    "toilet": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 4,
+      "fresh": 1,
+      "people": 0
+    },
+    "toothbrush": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 1,
+      "depraved": 0,
+      "fresh": 5,
+      "people": 0
+    },
+    "traffic light": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 0,
+      "fresh": 0,
+      "people": 3
+    },
+    "train": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 3,
+      "depraved": 0,
+      "fresh": 1,
+      "people": 4
+    },
+    "truck": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 2,
+      "depraved": 2,
+      "fresh": 0,
+      "people": 0
+    },
+    "tvmonitor": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 5,
+      "fresh": 0,
+      "people": 0
+    },
+    "umbrella": {
+      "animal": 0,
+      "city": 3,
+      "countryside": 0,
+      "depraved": 1,
+      "fresh": 1,
+      "people": 0
+    },
+    "vase": {
+      "animal": 0,
+      "city": 4,
+      "countryside": 1,
+      "depraved": 0,
+      "fresh": 4,
+      "people": 0
+    },
+    "wine glass": {
+      "animal": 0,
+      "city": 5,
+      "countryside": 0,
+      "depraved": 5,
+      "fresh": 0,
+      "people": 1
+    },
+    "zebra": {
+      "animal": 5,
+      "city": 0,
+      "countryside": 5,
+      "depraved": 0,
+      "fresh": 3,
+      "people": 0
+    }
+  },
+  "feelings": [
+    "depraved",
+    "fresh",
+    "people",
+    "animal",
+    "city",
+    "countryside"
+  ]
+}
