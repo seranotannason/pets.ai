@@ -44,6 +44,17 @@ export default class PhotoScreen extends React.Component {
       const data = await this.camera.takePictureAsync(options)
       console.log("data uri", data.uri);
       console.log("data base 64", data.base64);
+
+      fetch('http://35.231.26.95:8080', {
+        method: 'POST',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          image: data.base64,
+        }),
+      });
     }
   };
 }
