@@ -20,9 +20,6 @@ import { createStackNavigator } from 'react-navigation';
 var global_gif_uri;
 
 class HomeScreen1 extends React.Component {
-  static navigationOptions = {
-    title: null,
-  };
   render() {
     var pointer = this;
     var xhr = fetch("http://api.giphy.com/v1/gifs/search?q=ryan+gosling&api_key=6cCWFhXew0IqQcfPdHzyIBj2ArBA0YTW&limit=1", {
@@ -54,10 +51,6 @@ class HomeScreen1 extends React.Component {
         <Image source={{uri: gif_uri}}
           resizeMode= 'center'
           style={styles.Image}/>
-        <Button title="Giphy" onPress={() =>
-          this.props.navigation.navigate('HomeScreen2')
-          }
-        />
         <Image source={require('../assets/images/platypus0.png')}
         resizeMode= 'center'
         style={styles.Pet}
